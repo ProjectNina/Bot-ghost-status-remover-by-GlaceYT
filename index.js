@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Bypassing all scanners👻","Bypassing manual checks👻"];
 
 
 let currentIndex = 0;
